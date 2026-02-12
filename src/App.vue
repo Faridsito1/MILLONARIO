@@ -1,4 +1,3 @@
-<!-- src/App.vue -->
 <template>
   <q-layout view="hHh lpR fFf">
     <q-page-container>
@@ -18,6 +17,5 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-/* Fuentes adicionales si es necesario */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
 </style>
